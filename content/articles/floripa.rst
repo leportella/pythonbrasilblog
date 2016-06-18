@@ -489,7 +489,7 @@ Informações sobre transporte
 Todas as informações sobre os ônibus podem ser encontradas em:
 http://www.consorciofenix.com.br/
 
-Não existe Uber em Florianópolis
+Não existe Uber em Florianópolis, mas o `EasyTaxi <http://www.easytaxi.com/br/>`_ funciona bem na cidade.
 
 Central de Táxi (não é muito eficiente)
 (48) 3240-6009
